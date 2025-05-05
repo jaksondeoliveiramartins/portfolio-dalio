@@ -1,8 +1,8 @@
 {
-  "name": "portfolio-dalio",
+  "name": "portfolio-jakson",
   "version": "0.1.0",
   "private": true,
-  "author": "Dalio Shindi Yamada",
+  "author": "Jakson de Oliveira Martins",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
