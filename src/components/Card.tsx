@@ -9,14 +9,14 @@ type ProjectProps = {
   item: ProjectType;
 };
 
-//https://api.github.com/repos/DalioSY/front-end-codeburger/languages
+//https://api.github.com/repos/jaksondeoliveiramartins/front-end-codeburger/languages
 
 export function Card({ item }: ProjectProps) {
   return (
     <div className='flex flex-col justify-between p-4 gap-3 rounded border bg-background'>
       <div className='w-full h-28  flex items-center justify-center'>
         <img
-          src={`https://raw.githubusercontent.com/DalioSY/${item.name}/refs/heads/master/img/git-1.png`}
+          src={`https://raw.githubusercontent.com/jaksondeoliveiramartins/${item.name}/refs/heads/master/img/git-1.png`}
           alt='foto projeto'
           className='h-full w-auto'
         />

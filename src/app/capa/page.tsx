@@ -26,7 +26,7 @@ export default function Home() {
             </div>
             <div className=' flex items-center gap-2 text-3xl text-white '>
               <Box className='size-9' />
-              <p>https://portfolio-dalio.vercel.app/</p>
+              <p></p>
             </div>
           </div>
         </div>
