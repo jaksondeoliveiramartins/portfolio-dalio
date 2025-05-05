@@ -5,7 +5,7 @@ export const getGitHubProjects = async () => {
 
   try {
     const response = await axios.get(
-      'https://api.github.com/users/DalioSY/repos',
+      'https://api.github.com/users/jaksondeoliveiramartins/repos',
       {
         headers: {
           Authorization: `token ${token}`,

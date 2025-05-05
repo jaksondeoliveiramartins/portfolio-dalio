@@ -6,8 +6,8 @@ export default function Sobre() {
   return (
     <div className='p-5 m-5 bg-background rounded-xl'>
       <div className='mb-4'>
-        <h1 className='text-xl'>Dalio Shindi Yamada</h1>
-        <span>Desenvolvimento Full Statf | Desenvolvedor Mobile</span>
+        <h1 className='text-xl'>Jakson de Oliveira Martins</h1>
+        <span>Desenvolvimento Full Statc</span>
       </div>
       <div className=' grid sm:grid-cols-2 grid-cols-1  '>
         <div>
@@ -21,7 +21,7 @@ export default function Sobre() {
             </a>
             <a
               className='flex items-center gap-4 border bg-background px-5 rounded-full hover:bg-gradient-to-r from-cyan-500 to-blue-500 hover:text-white active:scale-90'
-              href='https://github.com/DalioSY'
+              href='https://github.com/jaksondeoliveiramartins'
             >
               <FiGithub />
               GitHub
@@ -44,7 +44,7 @@ export default function Sobre() {
         </div>
         <div>
           <p className='text-sm'>
-            Olá, meu nome é Dalio Shindi Yamada, tenho 39 anos e estou em
+            Olá, meu nome é Jakson de  oliveira martins, e estou em
             transição de carreira para me tornar um Desenvolvedor Full Stack.
             <br />
             <br />

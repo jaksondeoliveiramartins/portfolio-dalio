@@ -11,18 +11,18 @@ export default function Home() {
         <div className='h-screen flex flex-col justify-center p-5 gap-8 lg:p-14 '>
           <div>
             <h1 className='text-white font-black text text-7xl'>
-              Dalio Shindi Yamada
+              Jakson de Oliveira Martins
             </h1>
             <div className='text-white font-light text-7xl lg:text-xl'>
               <p className='text-3xl'>
-                Desenvolvedor Full Stack | Desenvolvedor Mobile
+                Desenvolvedor Full Stack 
               </p>
             </div>
           </div>
           <div>
             <div className=' flex items-center gap-2 text-3xl text-white pb-4'>
               <Github className='size-9' />
-              <p>https://github.com/DalioSY</p>
+              <p>https://github.com/jaksondeoliveiramartins</p>
             </div>
             <div className=' flex items-center gap-2 text-3xl text-white '>
               <Box className='size-9' />
