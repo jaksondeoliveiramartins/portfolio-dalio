@@ -104,4 +104,4 @@ Contribuições são bem-vindas! Por favor, siga estas etapas para contribuir:
 **Jakson de Oliveira Martins**
 
 - [GitHub](https://github.com/jaksondeoliveiramartins)
-- [LinkedIn]('https://www.linkedin.com/in/jaksondeoliveiramartins/)
+- [LinkedIn](https://www.linkedin.com/in/jaksondeoliveiramartins/)
