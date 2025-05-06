@@ -22,11 +22,11 @@ Criei meu novo portfólio do zero, utilizando meus conhecimentos mais recentes e
 Aqui estão algumas imagens do projeto:
 
 <div>
-    <img src="./img/git-1.png" alt="Imagem 1" width="250"/>
-    <img src="./img/git-2.png" alt="Imagem 2" width="250"/>
-    <img src="./img/git-3.png" alt="Imagem 3" width="250"/>
-    <img src="./img/git-4.png" alt="Imagem 4" width="250"/>
-    <img src="./img/git-5.png" alt="Imagem 5" width="250"/>
+    <img src="/" alt="Imagem 1" width="250"/>
+    <img src="/" alt="Imagem 2" width="250"/>
+    <img src="/" alt="Imagem 3" width="250"/>
+    <img src="/" alt="Imagem 4" width="250"/>
+    <img src="/" alt="Imagem 5" width="250"/>
 </div>
 
 ## Funcionalidades
@@ -101,7 +101,7 @@ Contribuições são bem-vindas! Por favor, siga estas etapas para contribuir:
 
 ## Contato
 
-**Dalio Shindi Yamada**
+**Jakson de Oliveira Martins**
 
-- [GitHub](https://github.com/DalioSY)
-- [LinkedIn](https://www.linkedin.com/in/dalio-s-yamada)
+- [GitHub](https://github.com/jaksondeoliveiramartins)
+- [LinkedIn]('https://www.linkedin.com/in/jaksondeoliveiramartins/)
