@@ -14,7 +14,7 @@ export default function Sobre() {
           <div className='flex flex-col items-start gap-5 m-5 '>
             <a
               className='flex items-center gap-4 border bg-background px-5 rounded-full hover:bg-gradient-to-r from-cyan-500 to-blue-500 hover:text-white active:scale-90'
-              href='https://www.linkedin.com/in/dalio-s-yamada/'
+              href='https://www.linkedin.com/in/jaksondeoliveiramartins/'
             >
               <FiLinkedin />
               Linkedin
@@ -28,14 +28,14 @@ export default function Sobre() {
             </a>
             <a
               className='flex items-center gap-4 border bg-background px-5 rounded-full hover:bg-gradient-to-r from-cyan-500 to-blue-500 hover:text-white active:scale-90'
-              href='mailto:dalioyamada@gmail.com'
+              href='mailto:jaomfive@hotmail.com'
             >
               <BiLogoGmail />
               E-mail
             </a>
             <a
               className='flex items-center gap-4 border  bg-background px-5 rounded-full hover:bg-gradient-to-r from-cyan-500 to-blue-500 hover:text-white active:scale-90'
-              href='https://wa.me/5511990085502'
+              href='https://wa.me/5531986496476'
             >
               <FaWhatsapp />
               WhatsApp

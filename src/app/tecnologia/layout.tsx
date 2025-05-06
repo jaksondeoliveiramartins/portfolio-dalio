@@ -28,7 +28,7 @@ export default function RootLayout({
         <Footer />
       </ThemeProvider>
       <Link
-        href='https://wa.me/5511990085502'
+        href='https://wa.me/5531986496476'
         className=' fixed bottom-24 sm:bottom-5 right-5 '
         target='_blank'
       >
