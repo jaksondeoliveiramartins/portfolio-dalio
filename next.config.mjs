@@ -3,7 +3,7 @@ import { hostname } from 'node:os';
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     images: {
-        remotePatterns: [{hostname:"https://raw.githubusercontent.com/"}],
+        remotePatterns: [{hostname:"raw.githubusercontent.com"}],
       },
 };
 
