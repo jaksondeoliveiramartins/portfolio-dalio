@@ -15,12 +15,13 @@ export function Card({ item }: ProjectProps) {
   return (
     <div className='flex flex-col justify-between p-4 gap-3 rounded border bg-background'>
       <div className='w-full h-28  flex items-center justify-center'>
-      <Image
-  src={`https://raw.githubusercontent.com/jaksondeoliveiramartins/${item.name}/refs/heads/main/img/git-1.png`}
+      <img
+      
+      
+  src={`https://raw.githubusercontent.com/jaksondeoliveiramartins/${item.name}portfolio-dalio/refs/heads/main/img/git-1.png`}
   alt='foto projeto'
   className='h-full w-auto'
-  width={28} // add a width prop to specify the image width
-  height={28} // add a height prop to specify the image height
+ 
 />
       </div>
       <div>
