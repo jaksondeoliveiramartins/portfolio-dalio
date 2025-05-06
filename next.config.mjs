@@ -1,4 +1,10 @@
+import { hostname } from 'node:os';
+
 /** @type {import('next').NextConfig} */
-const nextConfig = {};
+const nextConfig = {
+    images: {
+        remotePatterns: [{hostname:"https://raw.githubusercontent.com/"}],
+      },
+};
 
 export default nextConfig;
