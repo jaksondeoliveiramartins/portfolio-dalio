@@ -7,7 +7,7 @@ export default function Sobre() {
     <div className='p-5 m-5 bg-background rounded-xl'>
       <div className='mb-4'>
         <h1 className='text-xl'>Jakson de Oliveira Martins</h1>
-        <span>Desenvolvimento Full Statck</span>
+        <span>Desenvolvimento Full Stack</span>
       </div>
       <div className=' grid sm:grid-cols-2 grid-cols-1  '>
         <div>
