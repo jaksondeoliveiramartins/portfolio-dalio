@@ -8,7 +8,7 @@ export function Header() {
         <Avatar>
           <AvatarImage
             className='h-14 w-14 rounded-full border-primary'
-            src='https://drive.google.com/file/d/1jQ5Aof7SlPXDqJPLDOaeeYtfb6H7-fJh/view?usp=sharing'
+            src='https://avatars.githubusercontent.com/u/107636638?v=4'
           />
           <AvatarFallback>foto perfil</AvatarFallback>
         </Avatar>
