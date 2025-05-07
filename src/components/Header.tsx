@@ -8,27 +8,27 @@ export function Header() {
         <Avatar>
           <AvatarImage
             className='h-14 w-14 rounded-full border-primary'
-            src='https://avatars.githubusercontent.com/u/152891031?v=4'
+            src='https://drive.google.com/file/d/1jQ5Aof7SlPXDqJPLDOaeeYtfb6H7-fJh/view?usp=sharing'
           />
           <AvatarFallback>foto perfil</AvatarFallback>
         </Avatar>
         <div>
-          <h1 className='text-xl'>Dalio Shindi Yamada</h1>
+          <h1 className='text-xl'>Jakson de Oliveira Martins</h1>
           <span className='text-[8px] sm:text-sm '>
-            Desenvolvimento Full Stack | Desenvolvedor Mobile
+            Desenvolvimento Full Stack
           </span>
         </div>
       </div>
       <div className='flex items-center justify-center gap-4 '>
         <a
           className=' p-3 hover:bg-gradient-to-r from-cyan-500 to-blue-500 hover:text-white active:scale-90 hover:rounded-full'
-          href='https://www.linkedin.com/in/dalio-s-yamada/'
+          href='https://www.linkedin.com/in/jaksondeoliveiramartins/'
         >
           <FiLinkedin />
         </a>
         <a
           className=' p-3 hover:bg-gradient-to-r from-cyan-500 to-blue-500 hover:text-white active:scale-90 hover:rounded-full'
-          href='https://github.com/DalioSY'
+          href='https://github.com/jaksondeoliveiramartins'
         >
           <FiGithub />
         </a>
